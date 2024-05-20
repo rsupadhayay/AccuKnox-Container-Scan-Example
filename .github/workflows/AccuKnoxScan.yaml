@@ -22,7 +22,7 @@ jobs:
           tenant_id: ${{ secrets.TENANT_ID }}
           repository_name: "rsupadhayay/AccuKnox-Container-Scan-Example"
           endpoint: cspm.demo.accuknox.com
-          # severity: "HIGH"
+          severity: "HIGH"
           # exit_code: "1"
 
          
