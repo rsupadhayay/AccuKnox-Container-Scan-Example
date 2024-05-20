@@ -20,7 +20,7 @@ jobs:
         with:
           token: ${{ secrets.TOKEN }}
           tenant_id: ${{ secrets.TENANT_ID }}
-          repository_name: "udit-uniyal/accuknox-container-scan-example"
+          repository_name: "rsupadhayay/AccuKnox-Container-Scan-Example"
           endpoint: cspm.demo.accuknox.com
           # severity: "HIGH"
           # exit_code: "1"
